@@ -3,11 +3,11 @@ These examples help new NodeJS/AWS Lambda developers understand async vs sync pa
 
 Read and test them in order. 
 
-node example
-node example2
-node example3
-node example3a
-node example4
+- node example
+- node example2
+- node example3
+- node example3a
+- node example4
 
 ## Example
 
